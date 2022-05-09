@@ -454,13 +454,13 @@
 
 .parallelogramme {
   position: absolute;
-  background-color: #d269a6;
+  background-color: #d2696a;
   transition: all 2s;
-  width: 55px;
+  width: 58px;
   height: 100px;
   transform: rotate(83deg) skew(35deg);
   left: 70%;
-  top: 35%;
+  top: 35.5%;
 }
 
 @media screen and (max-width: 1000px) {
